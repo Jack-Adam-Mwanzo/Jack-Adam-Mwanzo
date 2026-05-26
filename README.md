@@ -1,4 +1,5 @@
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/0666e381-c951-4118-b41a-8bde945c0829" /> \
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/0666e381-c951-4118-b41a-8bde945c0829" />
+
 # Hey there, I'm Mwanzo 👋🏿
 
 ## Software Engineer, iOS
