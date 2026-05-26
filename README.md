@@ -9,10 +9,10 @@ I enjoy taking a beautiful design and making it work perfectly under the hood. F
 My programming journey began long before I picked up iOS, starting with Lisp, C, C++, Java, Python, JavaScript, Dart, and Kotlin. For years, limited hardware made development a constant struggle. Discovering Swift and moving to a MacBook felt like fate, it was the first time I could focus entirely on building without fighting my machine. I've been dedicated to the iOS ecosystem ever since 2022.
 
 ### Core Stack
-`Swift` `SwiftUI` `UIKit` `AVFoundation` `CoreML` `MetalFX`
+`Swift` `SwiftUI` `UIKit` `AVFoundation` `CoreML` `MetalFX` `Kotlin` `Springboot`
 
 ### Infrastructure & Systems
-`AWS` `Docker` `Kubernetes` `Fastlane` `Jenkins` `SonarQube`
+`AWS` `Docker` `Kubernetes` `Fastlane` `Jenkins` `SonarQube` `GCP`
 
 ### Design
 `Figma`, `Affinity`, `Autograph`, `daVinci Resolve`
